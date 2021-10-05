@@ -1,0 +1,24 @@
+#input
+    UAAGGG
+#output
+    CCCUUA
+#endtest
+
+#input
+    ACGGUGGGUUUUAC
+#output
+    GUAAAACCCACCGU
+#endtest
+
+#input
+    GUAAAACCCACCUG
+#output
+    CAGGUGGGUUUUAC
+#endtest
+
+#input
+    AAAAAACCCCCGACUAAAAUUUUUUU
+#output
+    AAAAAAAUUUUAGUCGGGGGUUUUUU
+#endtest
+
