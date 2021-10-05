@@ -133,7 +133,7 @@ donde:
 
 Escribir la funcion `calcular_distancia` que solicite la latitud y longitud de 2 puntos en la tierra y que muestre la distancia entre los puntos.
 
-**NOTA:** La latitud y longitud están expresadas en grados sexagesimales (360) y deberán ser convertidos en radianes al momento de usar la funciones trigonométricas. 
+**NOTA:** La latitud y longitud están expresadas en grados sexagesimales (360) y deberán ser convertidos en radianes al momento de usar las funciones trigonométricas.
 
 La cabecera de la función debe ser:
 ```cpp
